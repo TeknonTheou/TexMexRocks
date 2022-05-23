@@ -16,7 +16,7 @@ For this project the completed app was required to meet minimum CRUD functionali
 <h4>Create</h4>
 The project began with creating the model upon which the app would be built, adding a migration, and planning out all the categories to track for the object. This requirement included creagting an objects manager for accessing the database.
 
-I also createe a model form to include any inputs the user needs to make, and added templates to my app folder for creating a new item. A views function was made that renders the create page and utilizes the model form to save the collection item to the database.
+I also createe a model form to include any inputs the user needs to make, and added templates to my app folder for creating a new item. A views function was made that renders the create page and utilizes the model form to save the collection item to a relational database using SQLite.
 
 <h4>Read</h4>
 In this stage, I created a new HTML page, linked from my home page, to display a list of all items in the database. A function was added that gets all the items from the database and sends them to the template.
