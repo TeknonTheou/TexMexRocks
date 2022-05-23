@@ -55,3 +55,4 @@ The final stage of my project was adding in UI/UX improvements such as styling, 
 
 <li><h3>Skills Acquired</h3></li>
 Going into the project, I had not used APIs, Beautiful Soup, or JSON parsing skills.  This project provided a great opportunity to learn and practice these skills, as well as to experience Agile project management methodologies and utilize tools such as Azure DevOps and GitHub version control functionality.
+</ul>
