@@ -40,7 +40,7 @@ At this stage in the project, I added an edit page to the templates and url patt
  ![image](https://user-images.githubusercontent.com/99988665/169723950-1d55b4e3-50e1-49ac-ab4d-91bb26a581dc.png)
 
 <li><h3 id="api">API</h3></li>
-In this story, I connected to the "Tasty" API to receive a JSON response, and added in a template for displaying the information. This involved creating the template and rendering with a function, going through the API documentation connecting to the API, parsing the JSON response and sending the desired elements to the template. The API request page was then linked to the app's navigation bar.
+In this story, I connected to the "Tasty" API to receive a JSON response, and added in a template for displaying the information. This involved creating the template and rendering with a function, going through the API documentation, connecting to the API, parsing the JSON response, and sending the desired elements to the template. The API request page was then linked to the app's navigation bar.
   
  ![image](https://user-images.githubusercontent.com/99988665/169723987-912dd6e2-5d79-48bd-9776-5087ae9891fd.png)
 
