@@ -1,13 +1,14 @@
 # PYTHON LIVE PROJECT
 
 <h2>TexMexRocks</h2>
-  <p><a href="#intro">Introduction</a></p>
-  <p><a href="#CRUD">CRUD Functionality</a></p>
-  <p><a href="#scrape">Web Scraping</a></p>
-  <p><a href="#api">API</a></p>
-  <p><a href="#front">Front End Development</a></p>
-
 <ul>
+  <li><p><a href="#intro">Introduction</a></p></li>
+ <li> <p><a href="#CRUD">CRUD Functionality</a></p></li>
+  <li><p><a href="#scrape">Web Scraping</a></p></li>
+  <li><p><a href="#api">API</a></p></li>
+ <li><p><a href="#front">Front End Development</a></p></li>
+
+
 <li><h3 id="intro">Introduction</h3></li>
 During the time period of May 9-20, 2022, I took part in a live coding project, designing a web-application in PyCharm, using the Python web framework Django.  This project used Agile methodologies including scrum, daily standups, and weekly code retrospectives in a 2 week (10 business days) sprint environment.  For my project, I selected to create a user-editable recipe database themed on TexMex cuisine, with API and Beautiful Soup scraping functionality. Stories were assigned using Azure DevOps boards.
 
