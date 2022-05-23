@@ -30,14 +30,24 @@ I also added a details template to the template folder, and registered the templ
 
 I added in a link for each item on the list page that directed the user to the details page for that item, on which ALL recorded details of the item were displayed.
 
+ ![image](https://user-images.githubusercontent.com/99988665/169723873-f6de80c8-5a4f-404f-ba96-efacff669f4d.png)
+
+
 <li><h4>Update and Delete</h4></li>
 At this stage in the project, I added an edit page to the templates and url patterns, using model forms and instances to display the content of a single item from the database, and having a views function send the information for the single item and save any changes. I also included the option to delete an item, with a confirmation that the user wants to delete.
 
+ ![image](https://user-images.githubusercontent.com/99988665/169723950-1d55b4e3-50e1-49ac-ab4d-91bb26a581dc.png)
+
 <li><h3 id="api">API</h3></li>
 In this story, I connected to the "Tasty" API to receive a JSON response, and added in a template for displaying the information. This involved creating the template and rendering with a function, going through the API documentation connecting to the API, parsing the JSON response and sending the desired elements to the template. The API request page was then linked to the app's navigation bar.
+  
+ ![image](https://user-images.githubusercontent.com/99988665/169723987-912dd6e2-5d79-48bd-9776-5087ae9891fd.png)
 
 <li><h3 id="scrape">Web Scraping</h3></li>
 For this segment of the project, I used Beautiful Soup to scrape info for my favorite recipes on AllRecipes.com, and added in another template for displaying the information. This involved creating the template and rendering with a function, parsing the Beautiful Soup html info, and sending the desired elements to the template. The Beautiful Soup scraping page was also linked to the app's navigation bar.
+  
+ ![image](https://user-images.githubusercontent.com/99988665/169724041-9fdaaf91-1cb1-4303-8155-5bf1bb46f100.png)
+
 
 <li><h3 id="front">Front End Development</h3></li>
 The final stage of my project was adding in UI/UX improvements such as styling, hover effects, animations, etc., to make the page more visually appealing as well as more user-friendly. 
