@@ -16,7 +16,7 @@ During the time period of May 9-20, 2022, I took part in a live coding project, 
 For this project the completed app was required to meet minimum CRUD functionality, allowing a user to add their own entries, as well as reading, updating, and deleting existing records using a user-friendly interface.
 
 <li><h4>Create</h4></li>
-The project began with creating the model upon which the app would be built, adding a migration, and planning out all the categories to track for the object. This requirement included creagting an objects manager for accessing the database.
+The project began with creating the model upon which the app would be built, adding a migration, and planning out all the categories to track for the object. This requirement included creating an objects manager for accessing the database.
 
 I also created a model form to include any inputs the user needs to make, and added templates to my app folder for creating a new item. A views function was made that renders the create page and utilizes the model form to save the collection item to a relational database using SQLite.
   
